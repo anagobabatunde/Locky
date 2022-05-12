@@ -10,6 +10,21 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install locky.
 pip install locky
 ```
 
+
+## Development
+
+if you want to add some features.
+
+to build:
+```bash
+docker build -t locky    
+```
+
+to run
+```bash
+docker run -it locky     
+```
+
 ## Usage
 
 ```python
@@ -26,4 +41,6 @@ Please make sure to update tests as appropriate.
 
 
 ## Next features
-IA integration
+-> IA integration
+
+-> Dev run with volume to develop directly
