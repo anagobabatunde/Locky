@@ -1,4 +1,4 @@
-# Lucky
+# Locky
 
 Locky is a Python tool which can generate a random dictionary of password bassed on informations that you provide.
 
