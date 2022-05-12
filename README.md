@@ -1,19 +1,19 @@
 # Lucky
 
-Lucky is a Python tool which can generate a random dictionary of password bassed on informations that you provide.
+Locky is a Python tool which can generate a random dictionary of password bassed on informations that you provide.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Lucky.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install locky.
 
 ```bash
-pip install lucky
+pip install locky
 ```
 
 ## Usage
 
 ```python
-import lucky
+import locky
 ```
 
 ## Contributing
